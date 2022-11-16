@@ -19,7 +19,7 @@
 
 I got my data from a BigQuery public dataset.
 I started with exploring my data using standard SQL.
-My first query was 
+My first query was the one below 👇.
 ```
 SELECT
   MAX(date) as end_date,
@@ -27,6 +27,8 @@ SELECT
 FROM
   `bigquery-public-data.covid19_open_data_eu.covid19_open_data`;
 ```
+When I run the query above, I got the following result: 
+![Screenshot from Bigquery](data_period_screenshot.png)
 
 #### Why did I choose my data?
 
