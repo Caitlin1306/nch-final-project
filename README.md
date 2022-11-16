@@ -28,6 +28,7 @@ FROM
   `bigquery-public-data.covid19_open_data_eu.covid19_open_data`;
 ```
 When I run the query above, I got the following result: 
+
 ![Screenshot from Bigquery](data_period_screenshot.png)
 
 #### Why did I choose my data?
