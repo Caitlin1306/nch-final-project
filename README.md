@@ -11,6 +11,20 @@
 
 ## Introduction
 
+To complete the Data Analytics course at Northeastern University, I had to produce the final project to fulfill the following criteria:
+
+- Provide the project rationale.
+- Utilizing a minimum of 3 programming languages, e.g., Pandas, Plotly & SQL
+- Collect feedbcak ie Make pull requests on GitHub, adding Katia & Theo as reviwers 
+- Use data visualization ie bar charts, scatter plots & line charts etc 
+- Document the project in GitHub, Deepnote, Google Docs & Slides.com
+- Apply Agile methodologies ie Kanban Boards
+- Use statistical and machine learning analysis, e.g. :
+Hypothesis testing
+Comment all code blocks
+Present the project
+- Reach a conclusion 
+
 ## Rationale
 
 ## Obtaining Data
