@@ -40,6 +40,8 @@ I was looking for an up-to-date dataset that would allow my project to be accura
 
 ## Tech Stack
 
+For my project, I have chosen the following stacks:
+
 ## Data Exploration
 
 ## Data Cleaning 
