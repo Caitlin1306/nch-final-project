@@ -13,7 +13,14 @@
 
 ## Rationale
 
+Why did I choose this topic for my project?
+
 ## Obtaining Data
+
+Where did I find my data set
+Why did I choose the data set
+Why did I use the platform eg BigQuery 
+Video link?
 
 ### Where did I get my data?
 
@@ -43,10 +50,17 @@ I was looking for an up-to-date dataset that would allow my project to be accura
 For my project, I have chosen the following stacks:
 
 ## Data Exploration
+ 
+Import all my code to Github
 
 ## Data Cleaning 
 
+Import all my code to Github that I have cleaned
+Explain what I have done and why?
+
 ## Visual Analysis
+
+Import all my graphs and charts to Github
 
 ## Conclusion 
 
