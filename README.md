@@ -15,7 +15,7 @@
 
 ### Why did I choose this topic for my project?
 
-Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. 
+Coronavirus disease (COVID-19) is an infectious disease caused by the [SARS-CoV-2](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) virus. 
 
 If infected with the virus, you may experience mild to moderate respiratory illness and recover without You may experience mild to moderate respiratory illness if infected with the virus and recover without requiring special treatment. However, some will become seriously ill and require medical attention. Coronavirus affects all ages and individuals differently depending on factors such as age, lifestyle, health, etc.
 
