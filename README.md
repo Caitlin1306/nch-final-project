@@ -38,9 +38,6 @@ The main reason for choosing this dataset is because **COVID-19** was and still 
 
 ## Obtaining Data
 
-Where did I find my data set
-Why did I choose the data set
-Why did I use the platform eg BigQuery 
 Video link?
 
 ### Where did I get my data?
@@ -59,11 +56,9 @@ When I run the query above, I got the following result:
 
 ![Screenshot from Bigquery](data_period_screenshot.png)
 
-### Why did I choose my data?
-
 ### Why did I use BigQuery to get my data?
 
-The main reason for choosing this dataset is because **COVID-19** was and still is a huge part of all our lives due to it being a global disease, and I wanted a dataset that I would feel passionate about digging into and the **"covid19_open_data"** seemed precisely that. I have selected BigQuery as it is a part of [the Google Cloud](https://cloud.google.com/docs) and subsequently very fast. Moreover, it allows me to use [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction) to analyse and filter the data before uploading it to a Jupyter notebook. In this project, I wanted to compare the effects of different government response actions, e.g., school closures, transport closures, vaccinations, etc. 
+As stated above, the main reason for choosing this dataset is because **COVID-19** was and still is a huge part of all our lives due to it being a global disease, and I wanted a dataset that I would feel passionate about digging into and the **"covid19_open_data"** seemed precisely that. I have selected BigQuery as it is a part of [the Google Cloud](https://cloud.google.com/docs) and subsequently very fast. Moreover, it allows me to use [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction) to analyse and filter the data before uploading it to a Jupyter notebook. In this project, I wanted to compare the effects of different government response actions, e.g., school closures, transport closures, vaccinations, etc. 
 
 > My ultimate goal was to identify the government response most effectively fighting the pandemic.
 
