@@ -13,6 +13,8 @@
 
 [Link to my project plan](https://docs.google.com/document/d/1OuMQPu6PXZGiezz-ZZQXcmpNE61Zj6OXMKqFOeeDLMM/edit)
 
+[Link to my presentation](https://slides.com/caitlino-keefe/palette/edit)
+
 ## Introduction
 
 To complete the Data Analytics course at [Northeastern University London](https://www.nulondon.ac.uk/), I had to produce the final project to fulfill the following criteria:
