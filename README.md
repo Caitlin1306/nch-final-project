@@ -48,8 +48,9 @@ When I run the query above, I got the following result:
 
 ### Why did I use BigQuery to get my data?
 
-I was looking for an up-to-date dataset that would allow my project to be accurate. In the last 12 weeks I have learnt that BigQuery is regularly updated, so my code and chart will update automatically when I run the code. 
-[BigQuery](https://console.cloud.google.com/bigquery) isn't just fast but also highly suitable for running complex analytical queries on large data sets, such as the Covid-19 data set I have chosen. If I had used Kaggle instead, I would of had to do all my coding on [Deepnote](https://deepnote.com/) which struggles to handle large datasets. Therefore, it was clear to me from the start that I should use [BigQuery](https://console.cloud.google.com/bigquery)  for the majority of my project.
+The main reason for choosing this dataset is because **COVID-19** was and still is a huge part of all our lives due to it being a global disease, and I wanted a dataset that I would feel passionate about digging into and the **"covid19_open_data"** seemed precisely that. I have selected BigQuery as it is a part of [the Google Cloud](https://cloud.google.com/docs) and subsequently very fast. Moreover, it allows me to use [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction) to analyse and filter the data before uploading it to a Jupyter notebook. In this project, I wanted to compare the effects of different government response actions, e.g., school closures, transport closures, vaccinations, etc. 
+
+> My ultimate goal was to identify the government response most effectively fighting the pandemic.
 
 ## Tech Stack
 
