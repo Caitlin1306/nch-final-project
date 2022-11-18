@@ -15,7 +15,7 @@ To complete the Data Analytics course at Northeastern University, I had to produ
 
 - Provide the project rationale.
 - Utilizing a minimum of 3 programming languages, e.g., Pandas, Plotly & SQL
-- Collect feedbcak ie Make pull requests on GitHub, adding Katia & Theo as reviwers 
+- Collect feedbcak ie Make pull requests on GitHub, adding @missKatiaPunter  & @T-J-Summer  as reviwers 
 - Use data visualization ie bar charts, scatter plots & line charts etc 
 - Document the project in GitHub, Deepnote, Google Docs & Slides.com
 - Apply Agile methodologies ie Kanban Boards
