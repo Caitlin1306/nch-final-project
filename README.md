@@ -85,5 +85,8 @@ Explain what I have done and why?
 
 Import all my graphs and charts to Github
 
+## Processes
+
+image of kanban board
 ## Conclusion 
 
