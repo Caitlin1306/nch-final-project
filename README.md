@@ -69,6 +69,10 @@ The main reason for choosing this dataset is because **COVID-19** was and still 
 
 For my project, I have chosen the following stacks:
 
+- [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Plotly](https://plotly.com/python/)
+
 ## Data Exploration
  
 Import all my code to Github
