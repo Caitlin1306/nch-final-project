@@ -59,6 +59,21 @@ When I run the query above, I got the following result:
 
 ![Screenshot from Bigquery](data_period_screenshot.png)
 
+After running my first query above, I decided to run a query that would find out how many countries where recorded in my dataset 👇.
+
+```
+SELECT
+  DISTINCT country_name,
+  country_code
+FROM
+  `bigquery-public-data.covid19_open_data_eu.covid19_open_data`
+ORDER BY
+  country_code;
+```
+When I run the query above, it produced the following result:
+
+![Screenshot from Bigquery2](246_countries-screenshot.png)
+
 ### Why did I choose my data?
 
 ### Why did I use BigQuery to get my data?
