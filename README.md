@@ -19,8 +19,8 @@ To complete the Data Analytics course at [Northeastern University London](https:
 
 - Provide the project rationale.
 - Utilize a minimum of 3 technologies, e.g., [Pandas](https://pandas.pydata.org/docs/), [Plotly](https://plotly.com/python/) & [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction)
-- Collect feedback, i.e., make pull requests on GitHub, adding @missKatiaPunter  & @T-J-Summer  as reviewers 
-- Use data visualization, i.e., bar charts, scatter plots & line charts etc. 
+- Collect feedback, i.e., make pull requests on [GitHub](https://docs.github.com/en), adding @missKatiaPunter  & @T-J-Summer  as reviewers 
+- Use data visualization, i.e., bar charts 📊, scatter plots & line charts etc. 
 - Document the project in [GitHub](https://docs.github.com/en), [Deepnote](https://deepnote.com/docs), [Google Docs](https://www.google.com/docs/about/) & [Slides.com](https://slides.com/)
 - Apply Agile methodologies, i.e., [Kanban Boards](https://github.com/topics/kanban)
 - Use some statistical and machine learning analysis
@@ -34,7 +34,7 @@ Coronavirus disease (COVID-19) is an infectious disease caused by the [SARS-CoV-
 
 If infected with the virus, you may experience mild to moderate respiratory illness and recover without You may experience mild to moderate respiratory illness if infected with the virus and recover without requiring special treatment. However, some will become seriously ill and require medical attention. Coronavirus affects all ages and individuals differently depending on factors such as age, lifestyle, health, etc.
 
-The main reason for choosing this dataset is because **COVID-19** was and still is a huge part of all our lives, due to it being a global disease, and I wanted a dataset that I would feel passionate about digging into and the **"covid19_open_data".** I have selected on BigQuery allows me to analyse and compare factors that increased the chances of more individuals dying or catching the disease, such as, the more schools closed, did fewer people die due to the disease.
+The main reason for choosing this dataset is because **COVID-19** was and still is a huge part of all our lives, due to it being a global disease, and I wanted a dataset that I would feel passionate about digging into and the **"covid19_open_data".** I have selected on [BigQuery](https://cloud.google.com/bigquery/docs/) allows me to analyse and compare factors that increased the chances of more individuals dying or catching the disease, such as, the more schools closed, did fewer people die due to the disease.
 
 ## Obtaining Data
 
@@ -45,8 +45,8 @@ Video link?
 
 ### Where did I get my data?
 
-I got my data from a BigQuery public dataset.
-I started with exploring my data using standard SQL.
+I got my data from a [BigQuery](https://cloud.google.com/bigquery/docs/) public dataset.
+I started with exploring my data using [standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction).
 My first query was the one below 👇.
 ```
 SELECT
