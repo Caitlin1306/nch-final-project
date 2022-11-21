@@ -87,6 +87,8 @@ Import all my graphs and charts to Github
 
 ## Processes
 
-image of kanban board
+Image of kanban board
+What I used 
+
 ## Conclusion 
 
