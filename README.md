@@ -71,6 +71,7 @@ For my project, I have chosen the following stacks:
 - [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Plotly](https://plotly.com/python/)
+- [Seaborn](https://seaborn.pydata.org/tutorial/introduction)
 
 ## Data Exploration
  
