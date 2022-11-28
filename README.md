@@ -71,6 +71,16 @@ For my project, I have chosen the following stacks:
 - [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Plotly](https://plotly.com/python/)
+- [Seaborn](https://seaborn.pydata.org/tutorial/introduction)
+
+## Team and Processes
+
+### Team
+
+|Name|Github|
+| :------: | :----------------------------------------------------------------------------------------------: | 
+|  Katia - **Team Lead**   | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/missKatiaPunter)
+|  Caitlin - **Data Analyst**  | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/Caitlin1306)
 
 ## Data Exploration
  
@@ -81,11 +91,19 @@ Import all my code to Github
 Import all my code to Github that I have cleaned
 Explain what I have done and why?
 
+![Screenshot from Deepnote](Negative_Values_Table.png)
+
 ## Visual Analysis
 
-Import all my graphs and charts to Github
+Import all my graphs and charts to Github 
 
-## Processes 
+![Screenshot from Deepnote](World_Map.png)
+
+![Screenshot from Deepnote](Color_Map.png)
+
+![Screenshot from Deepnote](Color_Map_2.png)
+
+## Processes
 
 The basic Kanban board from GitHub Projects was used for Project Management 👇
 
