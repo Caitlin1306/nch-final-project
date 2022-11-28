@@ -95,7 +95,7 @@ Explain what I have done and why?
 
 ## Visual Analysis
 
-Import all my graphs and charts to Github
+Import all my graphs and charts to Github 
 
 ![Screenshot from Deepnote](World_Map.png)
 
@@ -111,8 +111,13 @@ Import all my graphs and charts to Github
 
 ## Processes
 
-Image of kanban board
-What I used 
+The basic Kanban board from GitHub Projects was used for Project Management 👇
+
+![Screenshot from GitHub Projects](Kanban.png)
+
+### Why did I use a Kanban board?
+
+A Kanban board is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency. I chose to use a Kanban board because it allowed me to group my project tasks into sections such as "To Do," "In Progress," "In Review" and "Done." This was very beneficial because I knew what needed to be done first and what I was waiting on a response for and could leave for a moment It also allowed me to see how long I was spending on a task helping me to manage my time better. I only had 3 weeks to complete my final project and time management was vital.
 
 ## Conclusion 
 
