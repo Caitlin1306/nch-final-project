@@ -59,7 +59,7 @@ When I run the query above, I got the following result:
 
 ![Screenshot from Bigquery](data_period_screenshot.png)
 
-After running my first query above, I decided to run a query that would find out how many countries where recorded in my dataset 👇.
+After running my first query, I decided to run a query that would find out how many countries where recorded in my dataset 👇.
 
 ```
 SELECT
