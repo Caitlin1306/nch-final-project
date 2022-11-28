@@ -91,7 +91,7 @@ Import all my code to Github
 Import all my code to Github that I have cleaned
 Explain what I have done and why?
 
-![Screenshot from Deepnote](Negative Values Table.png)
+![Screenshot from Deepnote](Negative_Values_Table.png)
 
 ## Visual Analysis
 
