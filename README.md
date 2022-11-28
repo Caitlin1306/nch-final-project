@@ -99,9 +99,15 @@ Import all my graphs and charts to Github
 
 ![Screenshot from Deepnote](World_Map.png)
 
+
+
 ![Screenshot from Deepnote](Color_Map.png)
 
+
+
 ![Screenshot from Deepnote](Color_Map_2.png)
+
+
 
 ## Processes
 
