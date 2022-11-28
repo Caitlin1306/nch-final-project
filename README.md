@@ -73,6 +73,15 @@ For my project, I have chosen the following stacks:
 - [Plotly](https://plotly.com/python/)
 - [Seaborn](https://seaborn.pydata.org/tutorial/introduction)
 
+## Team and Processes
+
+### Team
+
+|Name|Github|
+| :------: | :----------------------------------------------------------------------------------------------: | 
+|  Katia - **Team Lead**   | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/missKatiaPunter)
+|  Caitlin - **Data Analyst**  | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/Caitlin1306)
+
 ## Data Exploration
  
 Import all my code to Github
