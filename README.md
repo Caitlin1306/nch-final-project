@@ -93,7 +93,7 @@ The basic Kanban board from GitHub Projects was used for Project Management 👇
 
 ### Why did I use a Kanban board?
 
-A kanban board is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency. The reason I choose to use a Kanban board is because it allowed me to order my project tasks into sections such as; "To Do, In Progress, In Review and Done." This was very beneficial because I knew what needed to be done first and what I was waiting on a response for and could leave for now. It also allowed me to see how long I was spending on a task and allow me to manage my time better because I understood I only had 3 weeks to complete my final project and a set amount of tasks to do before I was done.
+A kanban board is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency. I chose to use a Kanban board is because it allowed me to order my project tasks into sections such as; "To Do, In Progress, In Review and Done." This was very beneficial because I knew what needed to be done first and what I was waiting on a response for and could leave for now. It also allowed me to see how long I was spending on a task and allow me to manage my time better because I understood I only had 3 weeks to complete my final project and a set amount of tasks to do before I was done.
 
 ## Conclusion 
 
