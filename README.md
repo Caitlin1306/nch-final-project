@@ -103,8 +103,14 @@ Import all my code to Github
 
 ## Data Cleaning 
 
-Import all my code to Github that I have cleaned
-Explain what I have done and why?
+##what I have cleaned and why?
+
+When I began coding/visualing my chosen dataset **"covid19_open_data"**, I realised that there must be negative values recorded due to how the graphs where presented👇. 
+
+![Screenshot from Deepnote](Negative_Values_Graph.png)
+
+This negativly affected my project as the data I was collecting couldn't have values lower then zero. This was due to the fact that the data recorded eg **'school_closing'**, **'workplace_closing'** and **'public_transport_closing'** had to have a value of 1,2 or 3 and **'new_confirmed'** and **'new_deceased'** had to have a value of 0. Finally, **'country_name'** had to be an name rather then number and **'date'** had to be in the format 2020-11-13. Therfore, the data recorded would result in all my code/visualisation being inaccurate. 
+To locate the error, I ran the code **"df[df['new_confirmed'] <0]"**. This searched for the negative values in the dataset. As seen below the negative values where all recorded in the column **"new_confirmed"** 👇. As mentioned previously **"new confirmed"** couldn't have values lower then 0, as you cannot have minus new comfirmed covid cases only and increase in new cases or results that don't differ in results from the previous day. 
 
 ![Screenshot from Deepnote](Negative_Values_Table.png)
 
