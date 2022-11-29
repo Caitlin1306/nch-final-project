@@ -105,7 +105,7 @@ Import all my code to Github
 
 ##what I have cleaned and why?
 
-When I began coding/visualing my chosen dataset **"covid19_open_data"**, I realised that there must be negative values recorded due to how the graphs where presented👇. 
+When I began coding/visualising my chosen dataset **"covid19_open_data"**, I realised that some negative values were recorded. At first I saw it on the graphs👇. 
 
 ![Screenshot from Deepnote](Negative_Values_Graph.png)
 
