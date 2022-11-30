@@ -109,7 +109,7 @@ When I began coding/visualising my chosen dataset **"covid19_open_data"**, I rea
 
 ![Screenshot from Deepnote](Negative_Values_Graph.png)
 
-This negativly affected my project as the data I was collecting couldn't have values lower then zero. This was due to the fact that the data recorded eg **'school_closing'**, **'workplace_closing'** and **'public_transport_closing'** had to have a value of 1,2 or 3 and **'new_confirmed'** and **'new_deceased'** had to have a value of 0. Finally, **'country_name'** had to be an name rather then number and **'date'** had to be in the format 2020-11-13. Therfore, the data recorded would result in all my code/visualisation being inaccurate. 
+This negatively affected my project as the data that had been collected couldn't have values lower than zero. This was due to the fact that the data recorded eg **'school_closing'**, **'workplace_closing'** and **'public_transport_closing'** had to have a value of 1,2 or 3 and **'new_confirmed'** and **'new_deceased'** had to have a value of 0. Finally, **'country_name'** had to be an name rather then number and **'date'** had to be in the format 2020-11-13. Therfore, the data recorded would result in all my code/visualisation being inaccurate. 
 To locate the error, I ran the code **"df[df['new_confirmed'] <0]"**. This searched for the negative values in the dataset. As seen below the negative values where all recorded in the column **"new_confirmed"** 👇. As mentioned previously **"new confirmed"** couldn't have values lower then 0, as you cannot have minus new comfirmed covid cases only and increase in new cases or results that don't differ in results from the previous day. 
 
 ![Screenshot from Deepnote](Negative_Values_Table.png)
