@@ -79,6 +79,17 @@ As stated above, the main reason for choosing this dataset is because **COVID-19
 
 > My ultimate goal was to identify the government response most effectively fighting the pandemic.
 
+## Schema
+| Name | Type | Description | Example |
+| ---- | ---- | ----------- | ------- |
+| **date** | `Date` |(YYYY-MM-DD)| 2020-05-07 |
+| **new_confirmed** | `Integer` | Count of new cases confirmed after positive test on this date | 64.0 |
+| **new_deceased** | `Integer` | Count of new deaths from a positive COVID-19 case on this date | 9.0 |
+| **country_name** | `String` | Name of each country where the data has been recorded for| United Kingdom |
+| **school_closing** | `Integer` | Record to show how each country responded to covid-19 on this date eg 0 - means weak response, 3 - means very strong | 1 |
+| **workplace_closing** | `Integer` | Record to show how each country responded to covid-19 on this date eg 0 - means weak response, 3 - means very strong | 2 |
+| **public_transport_closing** | `Integer` | Record to show how each country responded to covid-19 on this date eg 0 - means weak response, 3 - means very strong | 3 |
+
 ## Tech Stack
 
 For my project, I have chosen the following stacks:
