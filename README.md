@@ -15,6 +15,8 @@
 
 [Link to my presentation](https://slides.com/caitlino-keefe/palette/edit)
 
+[Link to my dataset on BigQuery](https://console.cloud.google.com/bigquery?authuser=1&project=principal-fact-363111&ws=!1m5!1m4!4m3!1sbigquery-public-data!2scovid19_open_data_eu!3scovid19_open_data)
+
 ## Introduction
 
 To complete the Data Analytics course at [Northeastern University London](https://www.nulondon.ac.uk/), I had to produce the final project to fulfill the following criteria:
