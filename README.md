@@ -111,6 +111,7 @@ For my project, I have chosen the following stacks:
 | :------: | :----------------------------------------------------------------------------------------------: | 
 |  Katia - **Team Lead**   | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/missKatiaPunter)
 |  Caitlin - **Data Analyst**  | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/Caitlin1306)
+|  Theo - **Data Analyst**  | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/T-J-Summer/Final-Project)
 
 ## Data Exploration
  
