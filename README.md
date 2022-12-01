@@ -3,10 +3,12 @@
 - [Introduction/Project Requirements](#Introduction)
 - [Rationale](#Rationale)
 - [Obtaining Data](#Obtaining-Data)
+- [Schema](#Schema)
 - [Tech Stack](#Tech-Stack)
 - [Data Exploration](#Data-Exploration)
 - [Data Cleaning](#Data-Cleaning)
 - [Visual Analysis](#Visual-Analysis)
+- [Processes](#Processes)
 - [Conclusion](#Conclusion)
 
 [Link to my Deepnote](https://deepnote.com/workspace/caitlin1306-5830-b744c156-1215-41b0-afc0-861533a29a82/project/NCH-Bootcamp-f2ebe341-884e-42c0-b194-dc0e178c25ee/notebook/NCH%20Final%20Project%20-8e630e6780274171848330c518ff31c7)
