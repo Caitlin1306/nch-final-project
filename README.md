@@ -90,6 +90,8 @@ As stated above, the main reason for choosing this dataset is because **COVID-19
 | **workplace_closing** | `Integer` | Record to show how each country responded to covid-19 on this date eg 0 - means weak response, 3 - means very strong | 2 |
 | **public_transport_closing** | `Integer` | Record to show how each country responded to covid-19 on this date eg 0 - means weak response, 3 - means very strong | 3 |
 
+**new_confirmed** - Values can be negative, typically indicating a correction or an adjustment in the way they were measured. For example, a case might have been incorrectly flagged as recovered one date so it will be subtracted from the following date.
+
 ## Tech Stack
 
 For my project, I have chosen the following stacks:
