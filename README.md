@@ -141,7 +141,7 @@ Below are several screenshots of descriptive statistics for my dataset `bigquery
 
 ![Screenshot from Deepnote](Data_Exploration.png)
 
-head(5) is used to return the first 5 n rows in the DataFrame.
+`.head(5)` returns the first 5 n rows in the DataFrame.
 
 ![Screenshot from Deepnote](df.head().png)
 
