@@ -159,7 +159,7 @@ The below code uses the function max/min, to see the most recent & earliest date
 
 Data cleaning is a process used to determine inaccurate, incomplete, or unreasonable data and then improve quality by correcting detected errors and omissions. 
 Without cleaning a dataset, you may come across duplication, negative values and missing values. 
-When cleaning the covid-19 dataset, I realized it had exactly that, when I ran the below codes 👇.
+When cleaning the covid-19 dataset, I realized it had exactly that, when I ran the below code 👇.
 
 The below code searches the dataset for negative values that have been entered into the DataFrame
 
