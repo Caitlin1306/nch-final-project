@@ -178,7 +178,7 @@ The below code searches the dataset for missing values, however, shows how much 
 ## Visual Analysis
 
 Visual Analytics is important as it is an extremely powerful way to make sense of huge amounts of data. 
-Visual analytics was an extremely important part of my project, as mentioned above it allowed to analyze and compare factors that increased the chances of more individuals dying or catching the disease, such as the more schools closed, did fewer people die due to the disease. Not only did it allow me to view my code and come to a clearer understanding, but it also allowed me to improve my own coding and have fun at the same time experimenting with what works and what doesn't.
+Visual analytics was an essential part of my project, as mentioned above, it allowed me to analyze and compare factors that increased the chances of more individuals dying or catching the disease, such as the more schools closed, the fewer people die due to the disease. Not only did it allow me to view my code and come to a clearer understanding, but it also allowed me to improve my coding and have fun while experimenting with what works and what doesn't.
 
 The below screenshot shows a choropleth map that I used to represent my three chosen countries e.g. Italy, Japan & United Kingdom using color.
 
