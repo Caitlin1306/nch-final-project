@@ -135,30 +135,66 @@ For my project, I have chosen the following stacks:
 
 Data exploration helps us to achieve a basic understanding of the chosen data. The results of data exploration can be extremely useful in understanding the dataset's structure. Descriptive statistics condenses critical characteristics of the data set into simple numeric metrics such as mean, maximum, standard deviation, etc.
 
-Below is a screenshot of descriptive statistics for my dataset `bigquery-public-data.covid19_open_data_eu.covid19_open_data` that I got from running the code **df.describe()** 👇.
+Below are several screenshots of descriptive statistics for my dataset `bigquery-public-data.covid19_open_data_eu.covid19_open_data` that I got from running the codes **df.describe()**, **df.head()**, **df.info()** and **df.max/df.min** 👇.
+
+`.describe()` is used for calculating summative statistics, e.g., percentile, mean, and standard deviation of the numerical values of the DataFrame. It analyzes numeric series and the DataFrame columns of mixed data types.
 
 ![Screenshot from Deepnote](Data_Exploration.png)
 
+`.head(5)` returns the first 5 n rows in the DataFrame.
+
+![Screenshot from Deepnote](df.head().png)
+
+`.info()` function is used to get a concise summary of the dataframe. It comes in handy when doing exploratory data analysis, as seen below.
+
+![Screenshot from Deepnote](df.info().png)
+
+The below code uses the function max/min, to see the most recent & earliest date that the covid-19 data was recorded.
+
+![Screenshot from Deepnote](min&max.png)
+
+
+
 ## Data Cleaning 
 
-Import all my code to Github that I have cleaned
-Explain what I have done and why?
+Data cleaning is a process used to determine inaccurate, incomplete, or unreasonable data and then improve quality by correcting detected errors and omissions. 
+Without cleaning a dataset, you may come across duplication, negative values and missing values. 
+When cleaning the covid-19 dataset, I realized it had exactly that, when I ran the below code 👇.
+
+The below code searches the dataset for negative values that have been entered into the DataFrame
 
 ![Screenshot from Deepnote](Negative_Values_Table.png)
 
+The below code searches the dataset for missing values and shows which columns have missing values and how many.
+
+![Screenshot from Deepnote](missing_values.png)
+
+The below code searches the dataset for missing values, however, shows how much information is missing from the DataFrame in total.
+
+![Screenshot from Deepnote](total_missing_values.png)
+
+
+
 ## Visual Analysis
 
-Import all my graphs and charts to Github 
+Visual Analytics is important as it is an extremely powerful way to make sense of huge amounts of data. 
+Visual analytics was an essential part of my project, as mentioned above, it allowed me to analyze and compare factors that increased the chances of more individuals dying or catching the disease, such as the more schools closed, the fewer people die due to the disease. Not only did it allow me to view my code and come to a clearer understanding, but it also allowed me to improve my coding and have fun while experimenting with what works and what doesn't.
+
+The below screenshot shows a choropleth map that I used to represent my three chosen countries e.g. Italy, Japan & United Kingdom using color.
 
 ![Screenshot from Deepnote](World_Map.png)
 
-
+The below screenshot shows a line chart that I used to show the COVID-19 cases throughout 2020-2022 for my three chosen countries, e.g., Italy, Japan & United Kingdom, using color.
 
 ![Screenshot from Deepnote](Color_Map.png)
 
-
+The below screenshot also shows a line chart and I used it to visualize the deaths due to covid throughout 2020-2022 for my three chosen countries e.g. Italy, Japan & United Kingdom using color. 
 
 ![Screenshot from Deepnote](Color_Map_2.png)
+
+The screenshot below is another visualization method I used to show the covid cases throughout 2020-2022 for my three chosen countries, e.g., Italy, Japan & United Kingdom, using color. I searched the same values as the first line chart above but decided to use a different method of visualization to be able to compare results from different angles to be able to get the most from it.
+
+![Screenshot from Deepnote](box_plot.png)
 
 
 
