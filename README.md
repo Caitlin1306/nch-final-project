@@ -165,7 +165,7 @@ The below code searches the dataset for negative values that have been entered i
 
 ![Screenshot from Deepnote](Negative_Values_Table.png)
 
-The below code searches the dataset for missing values and shows what columns are missing information and informs me, how much is missing from each.
+The below code searches the dataset for missing values and shows which columns have missing values and how many.
 
 ![Screenshot from Deepnote](missing_values.png)
 
