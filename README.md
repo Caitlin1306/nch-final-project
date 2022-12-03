@@ -184,7 +184,7 @@ The below screenshot shows a choropleth map that I used to represent my three ch
 
 ![Screenshot from Deepnote](World_Map.png)
 
-The below screenshot shows a line chart that I used to show the covid cases throughout 2020-2022 for my three chosen countries e.g. Italy, Japan & United Kingdom using color.
+The below screenshot shows a line chart that I used to show the COVID-19 cases throughout 2020-2022 for my three chosen countries, e.g., Italy, Japan & United Kingdom, using color.
 
 ![Screenshot from Deepnote](Color_Map.png)
 
