@@ -149,7 +149,7 @@ Below are several screenshots of descriptive statistics for my dataset `bigquery
 
 ![Screenshot from Deepnote](df.info().png)
 
-The below codes uses the function max/min, to see the most recent & earliest date that the covid-19 data was recorded.
+The below code uses the function max/min, to see the most recent & earliest date that the covid-19 data was recorded.
 
 ![Screenshot from Deepnote](min&max.png)
 
