@@ -137,7 +137,7 @@ Data exploration helps us to achieve a basic understanding of the chosen data. T
 
 Below are several screenshots of descriptive statistics for my dataset `bigquery-public-data.covid19_open_data_eu.covid19_open_data` that I got from running the codes **df.describe()**, **df.head()**, **df.info()** and **df.max/df.min** 👇.
 
-describe() is used for calculating statistical data like percentile, mean, and std of the numerical values of the DataFrame. It analyzes both numeric and object series and also the DataFrame column sets of mixed data types.
+`.describe()` is used for calculating summative statistics, e.g., percentile, mean, and standard deviation of the numerical values of the DataFrame. It analyzes numeric series and the DataFrame columns of mixed data types.
 
 ![Screenshot from Deepnote](Data_Exploration.png)
 
