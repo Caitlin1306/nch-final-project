@@ -5,6 +5,7 @@
 - [Obtaining Data](#Obtaining-Data)
 - [Schema](#Schema)
 - [Tech Stack](#Tech-Stack)
+- [Team & Processes](#Team-&-Processes)
 - [Data Exploration](#Data-Exploration)
 - [Data Cleaning](#Data-Cleaning)
 - [Visual Analysis](#Visual-Analysis)
