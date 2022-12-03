@@ -131,7 +131,13 @@ For my project, I have chosen the following stacks:
 
 ## Data Exploration
  
-Import all my code to Github
+[Link to my Deepnote](https://deepnote.com/workspace/caitlin1306-5830-b744c156-1215-41b0-afc0-861533a29a82/project/NCH-Bootcamp-f2ebe341-884e-42c0-b194-dc0e178c25ee/notebook/NCH%20Final%20Project%20-8e630e6780274171848330c518ff31c7)
+
+Data exploration helps us to achieve a basic understanding of the chosen data. The results of data exploration can be extremely useful in understanding the dataset's structure. Descriptive statistics condenses critical characteristics of the data set into simple numeric metrics such as mean, maximum, standard deviation, etc.
+
+Below is a screenshot of descriptive statistics for my dataset `bigquery-public-data.covid19_open_data_eu.covid19_open_data` that I got from running the code **df.describe()** 👇.
+
+![Screenshot from Deepnote](Data_Exploration.png)
 
 ## Data Cleaning 
 
