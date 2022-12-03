@@ -145,7 +145,7 @@ Below are several screenshots of descriptive statistics for my dataset `bigquery
 
 ![Screenshot from Deepnote](df.head().png)
 
-info() function is used to get a concise summary of the dataframe. It comes really handy when doing exploratory analysis of the data, as seen below.
+`.info()` function is used to get a concise summary of the dataframe. It comes in handy when doing exploratory data analysis, as seen below.
 
 ![Screenshot from Deepnote](df.info().png)
 
