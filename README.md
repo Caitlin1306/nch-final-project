@@ -169,7 +169,7 @@ The below code searches the dataset for missing values and shows which columns h
 
 ![Screenshot from Deepnote](missing_values.png)
 
-The below code searches the dataset for missing values, however shows how much information is missing from the DataFrame in total.
+The below code searches the dataset for missing values, however, shows how much information is missing from the DataFrame in total.
 
 ![Screenshot from Deepnote](total_missing_values.png)
 
