@@ -192,7 +192,7 @@ The below screenshot also shows a line chart and I used it to visualize the deat
 
 ![Screenshot from Deepnote](Color_Map_2.png)
 
-The below screenshot is another method of visualization I used to show the covid cases throughout 2020-2022 for my three chosen countries e.g. Italy, Japan & United Kingdom using color. I searched the same values as the first line chart above but decided to use a different method of visualization to be able to compare results from differnt angles to be able to get the most from it.
+The screenshot below is another visualization method I used to show the covid cases throughout 2020-2022 for my three chosen countries, e.g., Italy, Japan & United Kingdom, using color. I searched the same values as the first line chart above but decided to use a different method of visualization to be able to compare results from different angles to be able to get the most from it.
 
 ![Screenshot from Deepnote](box_plot.png)
 
