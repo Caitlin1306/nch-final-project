@@ -10,7 +10,6 @@
 - [Data Cleaning](#Data-Cleaning)
 - [Visual Analysis](#Visual-Analysis)
 - [Processes](#Processes)
-- [Conclusion](#Conclusion)
 
 [Link to my Deepnote](https://deepnote.com/workspace/caitlin1306-5830-b744c156-1215-41b0-afc0-861533a29a82/project/NCH-Bootcamp-f2ebe341-884e-42c0-b194-dc0e178c25ee/notebook/NCH%20Final%20Project%20-8e630e6780274171848330c518ff31c7)
 
@@ -31,7 +30,6 @@ To complete the Data Analytics course at [Northeastern University London](https:
 - Document the project in [GitHub](https://docs.github.com/en), [Deepnote](https://deepnote.com/docs), [Google Docs](https://www.google.com/docs/about/) & [Slides.com](https://slides.com/)
 - Apply Agile methodologies, i.e., [Kanban Boards](https://github.com/topics/kanban)
 - Use some statistical and machine learning analysis
-- Reach a conclusion 
 
 ## Rationale
 
@@ -207,6 +205,3 @@ The basic Kanban board from GitHub Projects was used for Project Management 👇
 ### Why did I use a Kanban board?
 
 A Kanban board is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency. I chose to use a Kanban board because it allowed me to group my project tasks into sections such as "To Do," "In Progress," "In Review" and "Done." This was very beneficial because I knew what needed to be done first and what I was waiting on a response for and could leave for a moment It also allowed me to see how long I was spending on a task helping me to manage my time better. I only had 3 weeks to complete my final project and time management was vital.
-
-## Conclusion 
-
