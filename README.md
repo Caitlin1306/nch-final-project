@@ -56,8 +56,6 @@ Nowadays, it is paramount to investigate those measures' comparative effectivene
 
 ## Obtaining Data
 
-Video link?
-
 ### Where did I get my data?
 
 I got my data from a [BigQuery](https://cloud.google.com/bigquery/docs/) public dataset.
